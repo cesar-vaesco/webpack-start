@@ -9,7 +9,7 @@ Recuerden que para reconstruir los módulos de node deben de ejecutar este coman
 npm install
 ```
 
-Y para crear nuevamente el DIST
+Y para crear nuevamente el DIST / lanzar el servidor de desarrollo
 
 ```
 npm start
